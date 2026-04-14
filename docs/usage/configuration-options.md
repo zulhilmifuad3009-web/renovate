@@ -185,7 +185,7 @@ If configured, Renovate will take a random sample of given size from assignees a
 
 Setting this to `true` will automatically approve the PRs.
 
-You can also configure this using `packageRules` if you want to use it selectively (e.g. per-package).
+You can also configure this using `packageRules` if you  want to use it selectively (e.g. per-package).
 
 ## autoReplaceGlobalMatch
 
